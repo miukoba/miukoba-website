@@ -136,7 +136,7 @@ date_format = "2006-01-02"
 time_format = "15:04"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "ja-jp"
+address_format = "en-us"
 
 ############################
 ## Advanced
