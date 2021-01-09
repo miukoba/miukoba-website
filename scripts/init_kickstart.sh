@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# WARNING: this will reset the project to the Kickstart 2021-01-08_template!
+# WARNING: this will reset the project to the Kickstart 2021-01-10_wowchemy_cheatsheet!
 
 # Update Academic
 cd ..

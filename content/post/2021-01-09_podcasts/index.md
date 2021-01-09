@@ -1,11 +1,11 @@
 ---
 title: 聞いているPodcast
-date: 2021-01-09 16:00:00 +0900
+date: "2021-01-09 16:00:00 +0900"
 draft: false
 
 ---
 
-# 聞き方
+## 聞き方
 
 今は iOS の Google Podcasts アプリをメインで使っている。
 
@@ -20,7 +20,7 @@ Google Podcasts は、登録している Podcast の新着エピソードを混�
 
 {{< figure src="list.jpeg" width="60%" >}}
 
-# 登録している Podcast
+## 登録している Podcast
 
 思ったより多かった。
 
