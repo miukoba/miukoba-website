@@ -7,8 +7,8 @@ draft: false
 
 ## はじめに
 
-- 網羅はしておらず、よく使うものだけ。
-- 自分用なのもあって、下記が全部混ざっているので、部分的に参考にする方は注意してください（この記事を書いてる現在、ブログはWowchemyで運用しています）
+- 網羅はしておらず、よく使うものだけ
+- 下記が全部混ざっているので、部分的に参考にする方は注意（この記事を書いてる時点で、ブログはWowchemyで運用しています）
   - markdown
     - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - Hugo Shortcodes
@@ -24,7 +24,6 @@ draft: false
 ※ H1は記事タイトルで使われるので使わない
 ## Heading 2
 ### Heading 3
-#### Heading 4
 
 Italics with _underscores_.
 Bold with **asterisks**.
@@ -35,6 +34,14 @@ Inline `code` has `back-ticks around` it.
 
 > This is a blockquote.
 ```
+
+## Heading 2
+
+コンテンツ
+
+### Heading 3
+
+コンテンツ
 
 ## リスト
 

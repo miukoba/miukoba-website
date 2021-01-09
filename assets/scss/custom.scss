@@ -5,7 +5,21 @@
 
 .article-style h2 {
   border-bottom: solid 1px #dddddd;
+  margin-top: 2em;
+  font-weight: bold;
 }
+
 .article-style h3 {
   border-bottom: dotted 1px #dddddd;
+  margin-top: 1.5em;
+}
+
+#TableOfContents {
+  border: solid 1px #dddddd;
+  padding-top: 1em;
+  margin-bottom: 4em;
+}
+
+#TableOfContents li a, .toc-top li a {
+  font-size: 1rem;
 }
