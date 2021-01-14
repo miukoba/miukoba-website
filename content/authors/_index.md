@@ -6,4 +6,5 @@ cascade:
   _build:
     render: never
     list: always
+exclude_sitemap: true
 ---

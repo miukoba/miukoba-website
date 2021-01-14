@@ -18,6 +18,7 @@ social:
 email: ""
 superuser: true
 highlight_name: false
+exclude_sitemap: true
 ---
 
 miua / miukoba
